@@ -1,2 +1,2 @@
 print("Hello Santiago")
-Print("Esto será otro commit")
+print("Esto será otro commit")
